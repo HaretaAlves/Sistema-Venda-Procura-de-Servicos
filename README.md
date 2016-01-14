@@ -1,39 +1,39 @@
-# Sistema de Venda & Procura de ServiÃ§os
-Sistema de ***Venda & Procura de ServiÃ§os*** idealizado e construÃ­do para a cadeira de *ProgramaÃ§Ã£o para Web I* 
-ministrada pelo professor Leonardo Moreira do curso de Sistemas e MÃ­dias Digitais da Universidade Federal do CearÃ¡.
+# Sistema de Venda & Procura de ServiÃƒÂ§os
+Sistema de ***Venda & Procura de ServiÃƒÂ§os*** idealizado e construÃƒÂ­do para a cadeira de *ProgramaÃƒÂ§ÃƒÂ£o para Web I* 
+ministrada pelo professor Leonardo Moreira do curso de Sistemas e MÃƒÂ­dias Digitais da Universidade Federal do CearÃƒÂ¡.
 <br/>
 <br/>
 **Desenvolvedores:**
 + Jonathan Alves
 + Hareta Alves
 
-**IDE**
+**IDE** <br/>
 1. IDE: Eclipse IDE for Java EE Developers
 
-**Servidor**
+**Servidor** <br/>
 1. Servidor Apache / Tomcat
 
-**Sobre o Banco de Dados**
+**Sobre o Banco de Dados** <br/>
 1. PostgreSQL 9.4
 2. Nome do banco: "sistemaServicos"
 3. Usuario: postgres / Senha: (sem senha) <br/>
 3.1 Pode ser modificado na classe "ConexaoBD", localizado no seguinte caminho "src/com/projeto/controller/" <br/>
 3.2 Backup do banco localizado na pasta "sql"
 
-***Manual de Uso***
-1. Faça seu cadastro para ter acesso a todas as funcionalidades do sistema.
-2. Após cadastro realizado, efetue login.
-3. Ao logar o usuário tem 4 abas principais:  
-3.1 Novo Serviço: Referente ao cadastro de novos serviços do usuário. <br/>
-3.2 Meus Serviços: Referente a visualização dos serviços cadastrados. <br/>
-	3.2.2 Nessa aba também é possível gerar um relatório geral de todos os serviços cadastrados pelo usuário. <br/>
-3.3 Minha Conta: Referente ao cadastro de alguns outros dados do usuário. <br/>
-3.4 Favoritos: Referente a visualização dos serviços que o usuário favoritou. <br/>
-	3.2.2 Nessa aba também é possível gerar um relatório geral de todos os serviços favoritados pelo usuário. <br/>
-4. Para visualizar os serviços disponíveis (cadastrados também por outros usuários), basta apenas clicar na logo do sistema "ServLiber". Então vai aparecer uma lista de categorias e serviços cadastrados.
-5. Para visualizar as mais informações sobre um determinado serviço, o usuário deve clicar em "contato". Então vai abrir uma página com mais informações sobre o serviço desejado, e a opção de favoritar estará disponível
+***Manual de Uso*** <br/>
+1. FaÃ§a seu cadastro para ter acesso a todas as funcionalidades do sistema.
+2. ApÃ³s cadastro realizado, efetue login.
+3. Ao logar o usuÃ¡rio tem 4 abas principais:  
+3.1 Novo ServiÃ§o: Referente ao cadastro de novos serviÃ§os do usuÃ¡rio. <br/>
+3.2 Meus ServiÃ§os: Referente a visualizaÃ§Ã£o dos serviÃ§os cadastrados. <br/>
+	3.2.2 Nessa aba tambÃ©m Ã© possÃ­vel gerar um relatÃ³rio geral de todos os serviÃ§os cadastrados pelo usuÃ¡rio. <br/>
+3.3 Minha Conta: Referente ao cadastro de alguns outros dados do usuÃ¡rio. <br/>
+3.4 Favoritos: Referente a visualizaÃ§Ã£o dos serviÃ§os que o usuÃ¡rio favoritou. <br/>
+	3.2.2 Nessa aba tambÃ©m Ã© possÃ­vel gerar um relatÃ³rio geral de todos os serviÃ§os favoritados pelo usuÃ¡rio. <br/>
+4. Para visualizar os serviÃ§os disponÃ­veis (cadastrados tambÃ©m por outros usuÃ¡rios), basta apenas clicar na logo do sistema "ServLiber". EntÃ£o vai aparecer uma lista de categorias e serviÃ§os cadastrados.
+5. Para visualizar as mais informaÃ§Ãµes sobre um determinado serviÃ§o, o usuÃ¡rio deve clicar em "contato". EntÃ£o vai abrir uma pÃ¡gina com mais informaÃ§Ãµes sobre o serviÃ§o desejado, e a opÃ§Ã£o de favoritar estarÃ¡ disponÃ­vel
 
-**OBS:** A opção de favoritar só será efetuada com sucesso se o usuário estiver logado.
+**OBS:** A opÃ§Ã£o de favoritar sÃ³ serÃ¡ efetuada com sucesso se o usuÃ¡rio estiver logado.
 
 
 
